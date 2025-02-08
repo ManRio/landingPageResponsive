@@ -196,10 +196,11 @@ ul {
   color: black;
   padding: 10px;
   cursor: pointer;
+  transition: all 0.3s ease-in-out;
 }
 
 .button:hover {
-  background-color: black;
+  background-color: rgb(146, 128, 128);
   color: white;
 }
 

@@ -51,7 +51,7 @@ Este proyecto es una **Landing Page** creada con **HTML, CSS y JavaScript**. Se 
 
 1. **Clonar el repositorio**:
    ```sh
-   git clone https://github.com/tu-usuario/landing-page-lifestyle.git
+   git clone https://github.com/ManRio/landingPageResponsive
    ```
 2. **Abrir el archivo** `index.html` en un navegador.
 3. ¡Explora el contenido y prueba la interacción!
